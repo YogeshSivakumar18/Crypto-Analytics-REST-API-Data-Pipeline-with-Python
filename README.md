@@ -3,6 +3,7 @@ A fully automated, data-driven analytics pipeline that extracts real-time crypto
 
 This project showcases API integration, data wrangling, feature engineering, and visualization, all powered by Python.
 
+The notebook has been attached in the repository [CyptoAPI.ipynb]
 ---
 
 ## 🧠 Problem Statement
@@ -39,4 +40,6 @@ Turning raw API data into **actionable, easy-to-understand insights**.
 - Crypto performance trends  
 - 24-hour and 7-day movement charts  
 - Distribution of market leaders/laggards  
-- Coin-specific analysis (BTC/ETH/etc.)  
+- Coin-specific analysis (BTC/ETH/etc.)
+
+
